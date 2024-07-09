@@ -1,2 +1,1 @@
-# snake-game-using-rust-lang
-A snake game made with Rust 
+<h1>A snake game made with Rust</h1>
